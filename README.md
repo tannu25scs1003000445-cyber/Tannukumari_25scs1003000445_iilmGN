@@ -1,5 +1,14 @@
-🏥 AI-Powered Health Predictor: Cancer & BP Monitoring📖 IntroductionEarly detection is the most critical factor in treating chronic diseases. This project presents an integrated predictive framework designed for early warning signals of Cancer Risk and Hypertension (Blood Pressure). By utilizing machine learning, we aim to assist medical professionals in timely intervention and reduce severe health complications.
- FeaturesDual-Stream Prediction: Separate modules for estimating cancer likelihood and BP levels.Multi-Modal Data: Processes clinical, lifestyle, and genetic biomarkers.Cuffless BP Estimation: Utilizes physiological signals like PPG and ECG for non-invasive monitoring.Integrated Dashboard: A user-friendly interface to display health insights and risk scores
+🏥 AI-Powered Health Predictor: 
+Cancer & BP Monitoring📖 IntroductionEarly detection is the most critical factor in treating chronic diseases. This project presents an integrated predictive framework designed for early warning signals of Cancer Risk and Hypertension (Blood Pressure). By utilizing machine learning, we aim to assist medical professionals in timely intervention and reduce severe health complications.
+
+
+
+ FeaturesDual-Stream Prediction: 
+ 
+ Separate modules for estimating cancer likelihood and BP levels.Multi-Modal Data: Processes clinical, lifestyle, and genetic biomarkers.Cuffless BP Estimation: Utilizes physiological signals like PPG and ECG for non-invasive monitoring.Integrated Dashboard: A user-friendly interface to display health insights and risk scores
+
+
+ 
  🛠️ Tech Stack & Methodology
 Software Tools
 
@@ -81,4 +90,3 @@ University: IILM University
 
 Supervisor: Mr. Shobhit Agrawal 
 
-Note: This project is a prototype developed for hackathon purposes and should not be used as a replacement for professional medical diagnosis.
